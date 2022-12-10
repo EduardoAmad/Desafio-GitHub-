@@ -1,2 +1,14 @@
 Este manual foi desenvolvido pelo professor Eduardo José, angolano, formado em Tecnologia em Redes de Computadores e Engenharia da Computação para o curso de Informática, com o intuito de aperfeiçoar o conhecimento dos estudantes. O mesmo deverá ser utilizado como acompanhamento nas aulas, e após o término do curso para relembrar o conteúdo trabalhado, ou seja, com auxílio deste material didático, poderão estudar e buscar novos conhecimentos em informática. 
 Para que o aluno possa desenvolver melhor suas aptidões deverá ler atentamente o manual, assim como procurar outras fontes de conhecimento. Esperamos que ele possa utilizar o computador e todos os seus recursos com maior rendimento e compreensão, assim como cada vez mais acompanhar a tecnologia que a cada dia, não anda, mas sim salta, fazendo com que os usuários busquem constantemente aperfeiçoar-se. 
+A palavra INFORMÁTICA surge na junção de duas palavras que são:
+a.	Informação 
+b.	Automática 
+Essa junção foi feita em 1962 pelo francês Philip Dreyfus que junto o prefixo da palavra INFORmação e o prefixo autoMÁTICA. 
+ 
+
+
+
+Def.: INFORMÁTICA: é a ciência que estuda o tratamento automático das informações. Tendo como o suporte básico o computador. 
+
+2.	O COMPUTADOR 
+O computador tem como função a manipulação de informações, não importando o seu tipo. O computador é uma máquina que permite que o usuário faça cálculos matemáticos, pesquisas, trabalhos gerais e etc., utilizando programas específicos. 
